@@ -1,14 +1,13 @@
 {
-  "name": "kodilla-zadanie9.3",
+  "name": "kodilla-zadanie9.4",
   "version": "1.0.0",
-  "description": "jq carousel",
+  "description": "js oop",
   "main": "index.js",
   "dependencies": {
     "grunt-cli": "^1.2.0"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
-    "grunt-cli": "^1.2.0",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-sass": "^2.0.0"
   },
